@@ -11,13 +11,17 @@ I have 7 years of the real experience of building web applications. Used modern 
 - 📄 Know about my experiences at [LinkedIn](https://www.linkedin.com/in/kmsayem12/)
 - :computer: I enjoy programming and sharing knowledge
 
+<br />
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/kmsayem12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhihasan" height="30" width="40" /></a>
 <a href="https://fb.com/kmsayem12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhihasan23" height="30" width="40" /></a>
 </p>
 
-### Languages and Tools:
+<br />
+
+<h2 align="left">Languages and Tools:</h2>
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -39,3 +43,20 @@ I have 7 years of the real experience of building web applications. Used modern 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+<br />
+<br />
+
+---
+
+## 📊 Saifullah Sayem Github Stats
+
+[![Saifullah Sayem Github stats](https://github-readme-stats.vercel.app/api?username=kmsayem12&theme=react&show_icons=true&hide=prs&hide_border=true&bg_color=0D1117)](https://github.com/GausAlMunirTushar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmsayem12&layout=compact&theme=react&color=5BCDEC&hide_border=true&bg_color=0D1117)](https://github.com/GausAlMunirTushar/github-readme-stats)
+
+ <br/>
+  <b>📓 Notes:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<br/>
+<br/>
+
+[![Saifullah Sayem github activity graph](https://activity-graph.herokuapp.com/graph?username=kmsayem12&theme=react-dark&hide_border=true)](https://github.com/kmsayem12/github-readme-activity-graph)
