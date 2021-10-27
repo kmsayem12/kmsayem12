@@ -1,7 +1,7 @@
 <h1>Hi there 👋, I'm saifullah Sayem</h1>
 <h3>FrontEnd Developer</h3>
 
-I have 7 years of the real experience of building web applications. Used modern Javascript ES6 language for frontend with modern frameworks and tools like React and Angular.
+I have 7 years of the real experience of building web applications. Used modern Javascript ES6 language for frontend with modern frameworks and tools like React and React Native.
 
 - 🔭 I’m currently working at [Strativ](https://strativ.se/)
 - 🌱 I’m currently learning React Native
