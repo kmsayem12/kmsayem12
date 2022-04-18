@@ -51,12 +51,12 @@ I have 7 years of the real experience of building web applications. Used modern 
 
 ## 📊 Saifullah Sayem Github Stats
 
-[![Saifullah Sayem Github stats](https://github-readme-stats.vercel.app/api?username=kmsayem12&theme=highcontrast&bg_color=0,000000,130F40&show_icons=true&hide=prs&hide_border=true)](https://github.com/kmsayem12/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmsayem12&layout=compact&theme=highcontrast&bg_color=0,000000,130F40&hide_border=true)](https://github.com/kmsayem12/github-readme-stats)
+[![Saifullah Sayem Github stats](https://github-readme-stats.vercel.app/api?username=kmsayem12&theme=highcontrast&bg_color=0,000000,130F40&show_icons=true&hide=prs&hide_border=true)](https://github.com/kmsayem12/kmsayem12)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmsayem12&layout=compact&theme=highcontrast&bg_color=0,000000,130F40&hide_border=true)](https://github.com/kmsayem12/kmsayem12)
 
  <br/>
   <b>📓 Notes:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 <br/>
 <br/>
 
-[![Saifullah Sayem github activity graph](https://activity-graph.herokuapp.com/graph?username=kmsayem12&theme=react-dark&hide_border=true)](https://github.com/kmsayem12/github-readme-activity-graph)
+[![Saifullah Sayem github activity graph](https://activity-graph.herokuapp.com/graph?username=kmsayem12&theme=react-dark&hide_border=true)](https://github.com/kmsayem12/kmsayem12)
