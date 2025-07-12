@@ -3,7 +3,7 @@
 
 I have 7 years of the real experience of building web applications. Used modern JavaScript ES6 language for frontend with modern frameworks and tools like React and React Native.
 
-- 🔭 I’m currently working at [AskMOA-MOA Technologies AB]([https://strativ.se/](https://askmoa.ai/))
+- 🔭 I’m currently working at [AskMOA-MOA Technologies AB]([https://askmoa.ai/])
 - 🌱 I’m currently learning React Native
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
